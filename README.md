@@ -1,4 +1,4 @@
-Here are some real-life Java project ideas focused on Data Structures and Algorithms (DSA). These ideas emphasize `arrays, linked lists, stacks, queues, hash maps, heaps,Graphs` etc. and are grounded in practical applications.
+Here are some real-life Java project ideas focused on Data Structures and Algorithms (DSA). 
 
 ---
 ### 🛒 Shopping Cart System (Using HashMaps & Lists)
